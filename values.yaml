@@ -1,0 +1,5 @@
+ozone:
+  replicaCount: 1
+
+  image:
+    tag: "66eb4aa148efa723f39b40c23dff99d19a65f5f0"
